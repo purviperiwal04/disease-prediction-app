@@ -1,11 +1,11 @@
-# 🩺 Disease Prediction App
+#  Disease Prediction App
 
 A **Machine Learning-powered web application** that predicts possible diseases based on user-selected symptoms.  
 Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this app provides quick health insights in an easy-to-use interface.  
 
 ---
 
-## 🚀 Features
+##  Features
 - Select **at least 3 symptoms** from a dropdown list.
 - Get predictions for possible diseases.
 - Simple and responsive web interface.
@@ -13,7 +13,7 @@ Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this app provides qu
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3.9+**
 - **Streamlit** – Web app framework
 - **Scikit-learn** – Machine learning model
@@ -22,8 +22,9 @@ Built with **Streamlit**, **Scikit-learn**, and **Pandas**, this app provides qu
 
 ---
 
-## 📦 Installation (Run Locally)
+##  Installation (Run Locally)
 1. **Clone the repository**
    ```bash
    git clone https://github.com/purviperiwal04/disease-prediction-app.git
    cd disease-prediction-app
+
